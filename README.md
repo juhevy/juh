@@ -5,21 +5,14 @@
 <! DOCTYPE html>
 <html lang= "pt-br">
 <head>
-display: felx;
-flex-direction: colum;
-jutify-content: flex-start;
-align-itens: center;
-height: 100vh;
-margin: 0;
-h1 {
-margin-top: 20px;
-}
-p {
-max-width: 600px
-margin-bottom: 20px;
-}
-</style>
-</head>
-</body>
-<h1>
-<p>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=detent="widht=device-width, initial-scale=1.0">
+  <title>Universo de Dota 2</title>
+  <linl rel="stylesheet" href="style.css"
+    <style>
+
+    </style>
+    </head>
+    <body>
+<div id="conrent">
+   <h1>Seja Bem-Vindo ao Universo de Dot,
